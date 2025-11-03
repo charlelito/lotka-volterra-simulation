@@ -216,7 +216,7 @@ $$α=1.0,β=0.1,γ=1.5,δ=0.075$$
 
 e condições iniciais $(X_0,Y_0)=(10,5)$.
 
-<img src="/lv_time_series_1.png"/>
+<img src="/figures/lv_time_series_1.png"/>
 
 A curva azul representa a população de **presas $X(t)$**, e a curva laranja, a de **predadores $Y(t)$**.
 Observa-se um **comportamento periódico**: quando as presas crescem em abundância, os predadores encontram alimento suficiente para se multiplicar; à medida que a população de predadores aumenta, a de presas é reduzida, provocando posteriormente a queda dos próprios predadores.
@@ -231,7 +231,7 @@ O período das oscilações depende principalmente dos parâmetros $\alpha$ e $\
 
 ### Plano de fase — Retrato do equilíbrio dinâmico
 
-![Plano de fase – Órbita em torno do equilíbrio](/lv_phase_plane_1.png)
+![Plano de fase – Órbita em torno do equilíbrio](/figures/lv_phase_plane_1.png)
 
 No **plano de fase**, cada ponto representa o estado do sistema em um instante — isto é, as populações simultâneas de presas $X$ e predadores $𝑌$.
 A trajetória forma uma **curva fechada**, indicando que o sistema oscila em torno do ponto de equilíbrio de coexistência:
@@ -255,8 +255,8 @@ Esses resultados mostram que, embora o modelo seja simples, ele **reage de forma
 
 |Série Temporal                               |  Plano de fase
 :--------------------------------------------:|:---------------------------------------------:
-<img src="/lv_sens_alpha.png" />              |<img src="/lv_phase_plane_var_alpha.png" /> 
-<img src="/lv_sens_gamma.png" />              |<img src="/lv_phase_plane_var_gamma.png" />
+<img src="/figures/lv_sens_alpha.png" />              |<img src="/figures/lv_phase_plane_var_alpha.png" /> 
+<img src="/figures/lv_sens_gamma.png" />              |<img src="/figures/lv_phase_plane_var_gamma.png" />
 
 ### 4ª e 5º simulações: Comportamento do modelo na condição inicial do ponto de equilíbrio
 
@@ -264,8 +264,8 @@ Os esperimentos da condição inicial no ponto de equilíbrio revelam que o sist
 
 |Série Temporal                               |  Plano de fase
 :--------------------------------------------:|:---------------------------------------------:
-<img src="/lv_time_series_eq_0_0.png" />      |<img src="/lv_phase_plane_eq_0_0.png" /> 
-<img src="/lv_time_series_eq_20_10.png" />    |<img src="/lv_phase_plane_eq_20_10.png" />
+<img src="/figures/lv_time_series_eq_0_0.png" />      |<img src="/figures/lv_phase_plane_eq_0_0.png" /> 
+<img src="/figures/lv_time_series_eq_20_10.png" />    |<img src="/figures/lv_phase_plane_eq_20_10.png" />
 
 
 ## Discussão
@@ -332,8 +332,7 @@ Esses conceitos, originalmente biológicos, são hoje pilares em campos como **c
 - ModelDB (CellML): Modelo de Lotka–Volterra em formato interoperável CellML. Disponível em: [https://models.cellml.org/exposure/8e1f599901dab590a61564292b4818f5](https://models.cellml.org/exposure/8e1f599901dab590a61564292b4818f5). Acesso em: 30 outubro 2025. 
 
 - Artigo de revisão histórico (PMC): Alfred J. Lotka and the Origins of Theoretical Population Ecology. Disponível em: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4534218/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4534218/). Acesso em: 30 outubro 2025.
-
-
+- 
 ---
 
 ## 🔗 Recursos e Execução Online
