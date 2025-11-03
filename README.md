@@ -332,7 +332,7 @@ Esses conceitos, originalmente biológicos, são hoje pilares em campos como **c
 - ModelDB (CellML): Modelo de Lotka–Volterra em formato interoperável CellML. Disponível em: [https://models.cellml.org/exposure/8e1f599901dab590a61564292b4818f5](https://models.cellml.org/exposure/8e1f599901dab590a61564292b4818f5). Acesso em: 30 outubro 2025. 
 
 - Artigo de revisão histórico (PMC): Alfred J. Lotka and the Origins of Theoretical Population Ecology. Disponível em: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4534218/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4534218/). Acesso em: 30 outubro 2025.
-- 
+  
 ---
 
 ## 🔗 Recursos e Execução Online
