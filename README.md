@@ -1,6 +1,14 @@
 # Simulação do modelo predador-presa utilizando as equações de Lotka-Volterra
 Predator–Prey Simulation • Nonlinear Dynamics • Python SciPy Toolkit
 
+[![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)](https://www.python.org/)
+[![SciPy](https://img.shields.io/badge/SciPy-1.10+-orange?logo=scipy)](https://scipy.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License: CC BY 4.0](https://img.shields.io/badge/Docs%20License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![DOI](https://zenodo.org/badge/1088873715.svg)](https://doi.org/10.5281/zenodo.17516070)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU_USUARIO/lotka-volterra-python/blob/main/Volterra.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SEU_USUARIO/lotka-volterra-python/HEAD)
+
 <p align="right">Charles Pimenta</p>
 
 
@@ -333,18 +341,6 @@ Esses conceitos, originalmente biológicos, são hoje pilares em campos como **c
 
 - Artigo de revisão histórico (PMC): Alfred J. Lotka and the Origins of Theoretical Population Ecology. Disponível em: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4534218/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4534218/). Acesso em: 30 outubro 2025.
   
----
-
-## 🔗 Recursos e Execução Online
-
-[![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)](https://www.python.org/)
-[![SciPy](https://img.shields.io/badge/SciPy-1.10+-orange?logo=scipy)](https://scipy.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![License: CC BY 4.0](https://img.shields.io/badge/Docs%20License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![DOI](https://zenodo.org/badge/1088873715.svg)](https://doi.org/10.5281/zenodo.17516070)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU_USUARIO/lotka-volterra-python/blob/main/Volterra.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SEU_USUARIO/lotka-volterra-python/HEAD)
-
 ---
 
 ## 🧠 Sobre o projeto
