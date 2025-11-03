@@ -33,12 +33,12 @@ $$
 
 Onde:
 
-- $ X(t) $: tamanho da população de **presas** no tempo $ t $
-- $ Y(t) $: tamanho da população de **predadores** no tempo $ t $
-- $ \alpha $: taxa de crescimento natural das presas (sem predadores) ou **taxa de natalidade**
-- $ \beta $: taxa de **predação**, ou probabilidade de encontro presa–predador
-- $ \gamma $: taxa de **mortalidade natural** dos predadores (sem presas)
-- $ \delta $: eficiência de conversão de presas em novos predadores
+- $X(t)$: tamanho da população de **presas** no tempo $t$
+- $Y(t)$: tamanho da população de **predadores** no tempo $t$
+- $\alpha$: taxa de crescimento natural das presas (sem predadores) ou **taxa de natalidade**
+- $\beta$: taxa de **predação**, ou probabilidade de encontro presa–predador
+- $\gamma$: taxa de **mortalidade natural** dos predadores (sem presas)
+- $\delta$: eficiência de conversão de presas em novos predadores
 
 ### Interpretação física e biológica
 
@@ -52,8 +52,8 @@ Essas interações recíprocas geram **ciclos oscilatórios** de abundância e e
 
 O sistema admite dois pontos de equilíbrio notáveis:
 
-1. $(X^*, Y^*) = (0, 0)$  — extinção mútua.
-2. $(X^*, Y^*) = \left(\dfrac{\gamma}{\delta}, \dfrac{\alpha}{\beta}\right)$ — coexistência estável entre predador e presa.
+1. $(X^{\ast},Y^{\ast})=(0,0)$  — extinção mútua.
+2. $(X^{\ast},Y^{\ast}) = \left(\dfrac{\gamma}{\delta}, \dfrac{\alpha}{\beta}\right)$ — coexistência estável entre predador e presa.
 
 Em torno do segundo ponto, as soluções apresentam **trajetórias periódicas fechadas** no plano de fase $(X,Y)$, revelando o comportamento cíclico característico do modelo.
 
