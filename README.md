@@ -5,7 +5,7 @@ Predator–Prey Simulation • Nonlinear Dynamics • Python SciPy Toolkit
 [![SciPy](https://img.shields.io/badge/SciPy-1.10+-orange?logo=scipy)](https://scipy.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![License: CC BY 4.0](https://img.shields.io/badge/Docs%20License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![DOI](https://zenodo.org/badge/1088873715.svg)](https://doi.org/10.5281/zenodo.17516070)
+[![DOI](https://zenodo.org/badge/1088873715.svg)](https://doi.org/10.5281/zenodo.17516071)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU_USUARIO/lotka-volterra-python/blob/main/Volterra.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SEU_USUARIO/lotka-volterra-python/HEAD)
 
@@ -97,7 +97,7 @@ O equilíbrio coexistente, dado por:
 
 $$(X^∗,Y^∗)=\left(\frac{\gamma}{\delta},\frac{\alpha}{\beta}\right)$$
 
-é um **centro neutro**: pequenas perturbações alteram apenas o valor de $C$, deslocando a órbita,** mas não crescendo nem decaindo** com o tempo.
+é um **centro neutro**: pequenas perturbações alteram apenas o valor de $C$, deslocando a órbita,**mas não crescendo nem decaindo** com o tempo.
 
 ### Interpretação física
 
